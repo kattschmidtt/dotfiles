@@ -1,0 +1,35 @@
+# .dircolors for Catppuccin Latte
+
+# File types
+NORMAL 38;5;49     # Text (default color for files)
+FILE 38;5;49      # Regular files (Text)
+DIR 38;5;111       # Directories (Sapphire)
+LINK 38;5;141      # Symbolic links (Mauve)
+EXEC 38;5;114      # Executable files (Green)
+CHR 38;5;216       # Character devices (Peach)
+BLK 38;5;216       # Block devices (Peach)
+SOCK 38;5;212      # Sockets (Pink):
+ORPHAN 38;5;204    # Orphaned symlinks (Red)
+MISSING 38;5;135  # Missing files (Text):
+
+# File extensions
+*.txt 38;5;49     # Text files (Text)
+*.md 38;5;29     # Markdown files (Text)
+*.py 38;5;114      # Python files (Green)
+*.sh 38;5;114      # Shell scripts (Green)
+*.ts 38;5;114      # Typescript files (Green)
+*.js 38;5;223      # JavaScript files (Yellow)
+*.html 38;5;216    # HTML files (Peach)
+*.css 38;5;111     # CSS files (Sapphire)
+*.tsx 38;5;111     # TSX files (Sapphire)
+*.json 38;5;223    # JSON files (Yellow)
+*.jpg 38;5;212     # JPEG images (Pink)
+*.jsx 38;5;212     # JSX files (Pink)
+*.png 38;5;212     # PNG images (Pink)
+*.gif 38;5;212     # GIF images (Pink)
+*.mp4 38;5;141     # MP4 videos (Mauve)
+*.go 38;5;141     # Golang files (Mauve)
+*.mp3 38;5;141     # MP3 audio (Mauve)
+*.zip 38;5;216     # ZIP archives (Peach)
+*.tar 38;5;216     # TAR archives (Peach)
+*.gz 38;5;216      # GZIP archives (Peach)
