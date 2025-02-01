@@ -1,0 +1,4 @@
+theme = catppuccin-frappe 
+font-family = D2CodingLigature Nerd Font Mono 
+font-size = 14
+gtk-titlebar = false 
