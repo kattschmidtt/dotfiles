@@ -1,0 +1,5 @@
+[/]
+enable-autotiling=true
+inner-gaps=uint32 5
+outer-gaps=uint32 5
+selected-layouts=[['Layout 4', 'Layout 1'], ['Layout 4', 'Layout 1']]
