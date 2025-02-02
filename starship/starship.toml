@@ -91,10 +91,6 @@ format = '[[ $symbol( $version) ](fg:base bg:teal)]($style)'
 symbol = ""
 style = "bg:teal"
 format = '[[ $symbol( $version) ](fg:base bg:teal)]($style)'
-[typescript]
-symbol = ""
-style = "bg:teal"
-format = '[[ $symbol( $version) ](fg:base bg:teal)]($style)'
 
 [docker_context]
 symbol = ""
