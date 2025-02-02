@@ -1,0 +1,35 @@
+# .dircolors for Catppuccin Mocha
+
+# File types
+NORMAL 38;2;205;214;244     # Text (default color for files) - Text
+FILE 38;2;205;214;244       # Regular files (Text)
+DIR 38;2;137;180;250        # Directories (Blue)
+LINK 38;2;245;194;231       # Symbolic links (Pink)
+EXEC 38;2;166;227;161       # Executable files (Green)
+CHR 38;2;245;224;220        # Character devices (Rosewater)
+BLK 38;2;245;224;220        # Block devices (Rosewater)
+SOCK 38;2;245;224;220       # Sockets (Rosewater)
+ORPHAN 38;2;243;139;168     # Orphaned symlinks (Red)
+MISSING 38;2;205;214;244    # Missing files (Text)
+
+# File extensions
+*.txt 38;2;205;214;244      # Text files (Text)
+*.md 38;2;205;214;244       # Markdown files (Text)
+*.py 38;2;166;227;161       # Python files (Green)
+*.sh 38;2;166;227;161       # Shell scripts (Green)
+*.ts 38;2;166;227;161       # Typescript files (Green)
+*.js 38;2;249;226;175       # JavaScript files (Yellow)
+*.html 38;2;245;169;127     # HTML files (Peach)
+*.css 38;2;137;180;250      # CSS files (Blue)
+*.tsx 38;2;137;180;250      # TSX files (Blue)
+*.json 38;2;249;226;175     # JSON files (Yellow)
+*.jpg 38;2;242;205;205      # JPEG images (Flamingo)
+*.jsx 38;2;242;205;205      # JSX files (Flamingo)
+*.png 38;2;242;205;205      # PNG images (Flamingo)
+*.gif 38;2;242;205;205      # GIF images (Flamingo)
+*.mp4 38;2;203;166;247      # MP4 videos (Mauve)
+*.go 38;2;203;166;247       # Golang files (Mauve)
+*.mp3 38;2;203;166;247      # MP3 audio (Mauve)
+*.zip 38;2;245;169;127      # ZIP archives (Peach)
+*.tar 38;2;245;169;127      # TAR archives (Peach)
+*.gz 38;2;245;169;127       # GZIP archives (Peach)
