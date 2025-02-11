@@ -5,10 +5,10 @@ return {
 		config = function()
 			-- Set the color scheme to mocha
 			require("catppuccin").setup({
-				flavour = "frappe", -- specify the flavour here
+				flavour = "mocha", -- specify the flavour here
 				background = { -- optional, set background light/dark
 					light = "latte",
-					dark = "frappe",
+					dark = "mocha",
 				},
 			})
 			vim.cmd("colorscheme catppuccin")
